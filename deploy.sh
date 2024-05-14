@@ -14,3 +14,4 @@ if [[ $GIT_BRANCH == "origin/master" ]]; then
 
 else
         echo "failed"
+fi
